@@ -1,2 +1,3 @@
 # Databricks notebook source
-test
+# MAGIC %sql
+# MAGIC select 1 + 1
