@@ -3,7 +3,7 @@
 # [tool.databricks.environment]
 # environment_version = "6"
 # ///
-print("today")
+print("today is in october")
 
 # COMMAND ----------
 
